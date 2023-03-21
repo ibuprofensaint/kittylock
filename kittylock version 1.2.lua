@@ -45,10 +45,3 @@ game.StarterGui:SetCore("SendNotification",{
             Text = "z4veb's modded macro";
             Duration = 1;
         }) 
--- valky's / z4veb's modded fps gui
--- x to lock		
---rec settings 
--- bullet speed - 450
--- speed 0.3 or 0.35
--- press Z or Y SO SPEED IS ON
--- loadstring(game:HttpGet("https://gist.githubusercontent.com/XatoriN/d716f8c1fb6ebffb82e2eecb148d7ef6/raw/4ef690bd28744bebf3316e2d2d12954b0f13c99d/aimlock7812872187871275635712"))()
